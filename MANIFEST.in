@@ -7,7 +7,6 @@ global-exclude *.pyc
 global-exclude *tox_private.ini
 global-exclude personal_notes/
 global-exclude */keys.yaml
-recursive-exclude *tests *
 global-exclude **/*service_account.json
 global-exclude **/test_service_account.json
 global-exclude **/*Zone.Identifier
